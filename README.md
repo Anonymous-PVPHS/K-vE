@@ -16,6 +16,10 @@ The information of this repository was privately compiled by a member of the stu
 All the information is publicly available and has been propertly cited at the end of each document.
 All information provided is intended to be as unbiased and impartial as possible.
 
+The real names of the persons of interest were used where deemed appropriate.
+Since the purpose of this project is to reduce speculation, the author decided that using aliases liberally would be counterproductive.
+However, where indicated, aliases were used in order to protect the privacy of sensitive information.
+
 
 ## Common Acronyms
 
