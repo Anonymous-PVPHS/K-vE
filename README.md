@@ -26,6 +26,8 @@ However, where indicated, aliases were used in order to protect the privacy of s
 Below is a list of common acronymns used throughout this repository:
 
 - `ASB`: Associated Student Body
+- `MiLB`: Minor League Baseball
+- `MLB`: Major League Baseball
 - `PVHS`: Palos Verdes High School
 - `PVPHS`: Palos Verdes Peninsula High School
 - `PVPUSD`: Palos Verdes Peninsula Unified School District
