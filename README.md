@@ -21,6 +21,12 @@ Since the purpose of this project is to reduce speculation, the author decided t
 However, where indicated, aliases were used in order to protect the privacy of sensitive information.
 
 
+## Aliases
+
+- `D.K.`: D----- K-----
+- `G.K.`: G----- K-----
+
+
 ## Common Acronyms
 
 Below is a list of common acronymns used throughout this repository:
