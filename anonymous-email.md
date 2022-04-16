@@ -13,7 +13,7 @@ The recipients were likely the players of the PVPHS baseball team, the players' 
 
 > THIS IS ABOUT THE AD MAKING THE BEST DECISION FOR THE SCHOOL, PLAYERS AND PARENTS.
 
-> I am a mother of player in the baseball program and I can't describe my disbelieve and how Disgusted I am of learing about the actions of our head baseball coach.
+> I am a mother of player in the baseball program and I can't describe my disbelieve and how Disgusted I am of learning about the actions of our head baseball coach.
 > This is why I have decided to anonymously write this email to everyone who is a part of PVPHS and baseball program.
 > I, along with few other parents have decided this is the best way to get this message across loud and clear.
 
