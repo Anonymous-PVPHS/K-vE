@@ -12,6 +12,30 @@
 | [FanGraphs][7]						|
 
 
+- Born 06/17/1976 in Torrance, CA (_MiLB.com_)
+- High school education at West Torrance High School (1989? - 1994)
+	- Participated in baseball program with South Torrance High School coach Grady Sain (_Ingram_)
+- College education at University of Florida (1996? - 1998) (_Florida Gators_)
+	- Participated in baseball program with former PVHS coach and current Santa Monica Athletic Director Evan Fujinaga (_Ingram_)
+- Played in professional organizations affiliated with Major League Baseball (MLB)
+	- Played in Minor League systems of Houston Astors and Detroit Tigers (1998 - 2006) (_MiLB.com_)
+- Coached with PVPUSD since 2012 (_Ingram_)
+	- Coached with PVHS coach Alex Morales at both PVHS and PVPHS (_Ingram_)
+- Worked as a para-educator (_Citation Needed_)
+	- Teacher's aide for students with special needs in the PVPUS Special Education department (_Citation Needed_)
+- PVPHS Baseball Coach (2019 - )
+	- Hired 07/10/2019 by Principal Dr. Kuykendall and former PVPHS Athletic Director Wendall Yoshida (_Ingram_)
+	- Followed PVPHS 2019 season and resignation of Brian Bowles (_Ingram_)
+	- At hiring, fourth coach in 12 years (_Ingram_)
+- Placed on administrative leave by PVPUSD (04/11/2022?) (_Citation Needed_)
+
+
+## Works Cited
+
+- “Derek Nicholson Stats, Fantasy &amp; News.” MiLB.com, https://www.milb.com/player/derek-nicholson-437912.
+- “DEREK NICHOLSON.” Florida Gators, https://floridagators.com/sports/baseball/roster/derek-nicholson/8580. 
+- Ingram, Nicholas. “Derek Nicholson Tapped as Peninsula High's Baseball Coach.” Daily Breeze, Daily Breeze, 24 May 2021, https://www.dailybreeze.com/2019/07/10/derek-nicholson-tapped-as-peninsula-highs-baseball-coach/. 
+
 [1]: mailto:nicholsond@pvpusd.net
 [2]: mailto:dmdnic4@gmail.com
 [3]: https://www.linkedin.com/in/derek-nicholson-7700a127/
