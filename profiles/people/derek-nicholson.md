@@ -31,12 +31,17 @@
 	- Hired 07/10/2019 by Principal Dr. Kuykendall and former PVPHS Athletic Director Wendall Yoshida (_Ingram_)
 	- Followed PVPHS 2019 season and resignation of Brian Bowles (_Ingram_)
 	- At hiring, fourth coach in 12 years (_Ingram_)
+    - Paid at CA minimum wage ($14/hour, $28/day) (_Citation Needed_)
+    - Supposedly holds no other occupation, yet lives comfortably (_Citation Needed_)
+      - Resultant rumors of embezzlement of funds (_Citation Needed_)
+    - Accused of participating in extramarital affairs with players' mothers (_Citation Needed_)
+      - Reportedly took one player's mother to the PVPHS Black & Gold Affair (_Citation Needed_)
 - Placed on administrative leave by PVPUSD (04/11/2022?) (_Citation Needed_)
 
 
 ## Works Cited
 
-- “Derek Nicholson Minor &amp; Independent Leagues Statistics &amp; History.” Baseball Reference, Baseball Reference, https://www.baseball-reference.com/register/player.fcgi?id=nichol001der. 
+- “Derek Nicholson Minor & Independent Leagues Statistics & History.” Baseball Reference, Baseball Reference, https://www.baseball-reference.com/register/player.fcgi?id=nichol001der. 
 - “Derek Nicholson Stats, Fantasy & News.” MiLB.com, Minor League Baseball, https://www.milb.com/player/derek-nicholson-437912.
 - “DEREK NICHOLSON.” Florida Gators, https://floridagators.com/sports/baseball/roster/derek-nicholson/8580.
 - Ingram, Nicholas. “Derek Nicholson Tapped as Peninsula High's Baseball Coach.” Daily Breeze, Daily Breeze, 24 May 2021, https://www.dailybreeze.com/2019/07/10/derek-nicholson-tapped-as-peninsula-highs-baseball-coach/.
