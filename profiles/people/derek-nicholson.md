@@ -21,6 +21,7 @@
 - Played professional baseball in the MiLB system (1998 - 2009) (_Baseball Reference_)
 	- Affiliated with Houston Astros (1998 - 2000, 2006)
 	- Affiliated with Detroit Tigers (2001 - 2005)
+	- Independent affiliation (2007 - 2009)
 - LAHC Baseball Coach (2011 - 2022) (_Baseball Reference_)
 - Coached with PVPUSD since 2012 (_Ingram_)
 	- Coached with PVHS coach Alex Morales at both PVHS and PVPHS (_Ingram_)
