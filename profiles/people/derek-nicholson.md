@@ -12,13 +12,14 @@
 | [FanGraphs][7]						|
 
 
-- Born 06/17/1976 in Torrance, CA (_MiLB.com_)
+- Born 06/17/1976 in Torrance, CA (_Minor League Baseball_)
 - High school education at West Torrance High School (1989? - 1994)
 	- Participated in baseball program with South Torrance High School coach Grady Sain (_Ingram_)
 - College education at University of Florida (1996? - 1998) (_Florida Gators_)
 	- Participated in baseball program with former PVHS coach and current Santa Monica Athletic Director Evan Fujinaga (_Ingram_)
 - Played in professional organizations affiliated with Major League Baseball (MLB)
-	- Played in Minor League systems of Houston Astors and Detroit Tigers (1998 - 2006) (_MiLB.com_)
+	- Played in Minor League systems of Houston Astors and Detroit Tigers (1998 - 2006) (_Minor League Baseball_)
+- LAHC Baseball Coach (2011 - 2022) (_Baseball Reference_)
 - Coached with PVPUSD since 2012 (_Ingram_)
 	- Coached with PVHS coach Alex Morales at both PVHS and PVPHS (_Ingram_)
 - Worked as a para-educator (_Citation Needed_)
@@ -32,9 +33,10 @@
 
 ## Works Cited
 
-- “Derek Nicholson Stats, Fantasy &amp; News.” MiLB.com, https://www.milb.com/player/derek-nicholson-437912.
-- “DEREK NICHOLSON.” Florida Gators, https://floridagators.com/sports/baseball/roster/derek-nicholson/8580. 
-- Ingram, Nicholas. “Derek Nicholson Tapped as Peninsula High's Baseball Coach.” Daily Breeze, Daily Breeze, 24 May 2021, https://www.dailybreeze.com/2019/07/10/derek-nicholson-tapped-as-peninsula-highs-baseball-coach/. 
+- “Derek Nicholson Stats, Fantasy & News.” MiLB.com, Minor League Baseball, https://www.milb.com/player/derek-nicholson-437912.
+- “DEREK NICHOLSON.” Florida Gators, https://floridagators.com/sports/baseball/roster/derek-nicholson/8580.
+- Ingram, Nicholas. “Derek Nicholson Tapped as Peninsula High's Baseball Coach.” Daily Breeze, Daily Breeze, 24 May 2021, https://www.dailybreeze.com/2019/07/10/derek-nicholson-tapped-as-peninsula-highs-baseball-coach/.
+- “Los Angeles Harbor College.” Los Angeles Harbor College - BR Bullpen, Baseball Reference, https://www.baseball-reference.com/bullpen/Los_Angeles_Harbor_College. 
 
 [1]: mailto:nicholsond@pvpusd.net
 [2]: mailto:dmdnic4@gmail.com
