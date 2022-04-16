@@ -4,9 +4,9 @@
 | [Email][1]	| [Email][2]	| [LinkedIn][3]	|
 
 | [University of Florida: Baseball][4]	|
-| [Minor League Baseball (MiLB)][4]		|
-| [Baseball Reference][5]				|
-| [FanGraphs][6]						|
+| [Minor League Baseball (MiLB)][5]		|
+| [Baseball Reference][6]				|
+| [FanGraphs][7]						|
 
 
 [1]: mailto:nicholsond@pvpusd.net
