@@ -1,13 +1,18 @@
 # Palos Verdes Peninsula Unified School District
 
+|               |
+| ------------- |
+| [Website][1]  |
+
 
 ## Relevant District Policies/Regulations
 
+[PVPUSD Policy Listings](https://simbli.eboardsolutions.com/Policy/PolicyListing.aspx?S=36030360)
 
-### Administrative Leave
+_Note:_The following content does not constitute a comprehensive list of relevant district policies/regulations.__
 
 
-#### Policy 4118: Dismissal/Suspension/Disciplinary Action	
+### Policy 4118: Dismissal/Suspension/Disciplinary Action	
 
 _Status: ADOPTED_
 
@@ -19,7 +24,7 @@ _Original Adopted Date: 02/08/2001 | Last Revised Date: 02/22/2017_
 [PVPUSD District Policy 4118](https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030360&revid=S4xq5EC7zFczE0oYfLCvEA==&ptid=amIgTZiB9plushNjl6WXhfiOQ==&secid=muNUlKiR2jsXcslsh28JpBkiw==&PG=6&IRP=0)
 
 
-#### Regulation 4118: Dismissal/Suspension/Disciplinary Action
+### Regulation 4118: Dismissal/Suspension/Disciplinary Action
 
 _Status: ADOPTED_
 
@@ -63,3 +68,6 @@ _Original Adopted Date: 02/08/2001 | Last Revised Date: 02/22/2017_
 > (Education Code 44830.1)
 
 [PVPUSD District Regulation 4118](https://simbli.eboardsolutions.com/Policy/ViewPolicy.aspx?S=36030360&revid=gteDEslshTQ6cPxplusBCL3pXKJA==&ptid=amIgTZiB9plushNjl6WXhfiOQ==&secid=muNUlKiR2jsXcslsh28JpBkiw==&PG=6&IRP=0)
+
+
+[1]: https://www.pvpusd.net/
