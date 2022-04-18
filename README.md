@@ -23,8 +23,9 @@ However, where indicated, aliases were used in order to protect the privacy of s
 
 ## Aliases
 
-- `D.K.`: D----- K-----
-- `G.K.`: G----- K-----
+- `D.K.`: [D----- K-----](./profiles/people/d-k.md), spouse of G.K.
+- `G.K.`: [G----- K-----](./profiles/people/g-k.md), spouse of D.K.
+- `M.N.`: M----- Nicholson, spouse of [Derek Nicholson](./profiles/people/derek-nicholson.md)
 
 
 ## Common Acronyms
